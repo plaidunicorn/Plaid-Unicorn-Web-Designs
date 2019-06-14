@@ -1,0 +1,197 @@
+body {
+      font-family:'syncopate', sans-serif;
+      background-image: url(index_background1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background: fill;
+    background-size: 100% 100%;
+    background: height 100%, width 100%;
+    margin-top: 0px;
+    padding-top: 0;
+    
+    }
+    
+
+#position{
+      display:block;
+}
+
+.relative {
+     
+      border-radius: 45%;
+      height:400px;
+      width: 500px;
+      position: sticky;
+      vertical-align: middle;
+      left:515px;
+      top: 20px;
+      
+      border:5px solid limegreen;
+    
+  }
+
+  
+
+
+#wrapper{
+         text-align:center;
+         max-width:2000px;
+         margin: 2 auto;                                            
+         padding: 0 10%;
+        
+   }
+   
+    
+
+
+h1{
+   text-align:center;
+   font-family:'shojumaru', cursive;
+   margin: 15px 0;
+   font-size:2em; 
+   font-weight:normal;
+   color:#10F336;
+       
+     }
+     
+
+
+h2{
+   text-align:center;
+   font-family:'syncopate', sans-serif;
+   font-size:1.75em;
+   margin:40px;
+   font-weight:normal;
+   color:#10F336;
+     }
+     
+
+
+h3 {
+   text-align:center;
+   font-family:'syncopate', sans-serif;
+   font-size:1.5em;
+   margin:40px;
+   font-weight:normal;
+   color:#10F336;
+     }
+
+
+
+/*site body */
+
+
+
+#header {
+        
+        border-color:#599a68;
+        float:left;
+        width:100%;
+       
+    }
+     
+
+
+nav{
+    
+    text-align:center;
+    padding:10px 0;
+    margin:inherit;
+  
+      }
+      
+
+
+nav a, nav a:visited {
+                      color:#10F336
+       }
+       
+       
+
+
+nav a.selected, nav a:hover {
+                             color:#10F336
+       }
+ 
+      
+ 
+
+
+footer {
+        text-align:center;
+        clear:both;
+        font-size:x-small;
+        padding-top:100px;
+        color:black;
+        position:relative;
+         
+  }  
+  
+
+
+#gallery {
+          margin:0;
+          padding:0;
+          list-style:none;
+   }
+   
+
+
+#gallery li {
+             float:left;
+             width:45%;
+             margin:2.5%;
+             color:pink;
+             padding-top:75px;
+    }
+    
+
+#gallery li a p {
+                 margin:0;
+                 padding:5%;
+                 font-size:.75em;
+                 color:#599a68;
+                 size:auto;
+                 font-weight:bold;
+                 font-family:'syncopate', sans-serif;
+     }
+   
+span{
+  color:indigo;
+  font-family:'syncopate', sans-serif;
+  font-weight:bold;
+  text-transform:uppercase;
+  font-size:3em;
+
+}
+
+#center{
+  text-align: center;
+}  
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
